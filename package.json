@@ -1,0 +1,16 @@
+{
+  "name": "words-counters-interface",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "bin": "main.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
